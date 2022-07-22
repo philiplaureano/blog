@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+This blog is a scrapbook of all my personal coding projects, all in one place. 
 
-Maybe say a some things about yourself.
+None of them come with any commercial support, and are not intended to be used in any production environments or workloads.
 
-Or maybe what you plan to blog about.
+Use them at your own risk ;) 
